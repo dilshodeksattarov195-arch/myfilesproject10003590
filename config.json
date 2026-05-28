@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "cacheponnect",
+        "uuid": 29455950,
+        "checksum": "gt998m"
+    },
+    "settings": {
+        "retries": 4,
+        "enabled": false,
+        "mode": "production"
+    }
+}
